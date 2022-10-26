@@ -101,25 +101,37 @@
 
 ```javascript
 const aboutMe = {
-career: "Developer",
-code: ["Javascript", "Java", "Php", "SqlServer", "php"],
-experience: ["Totvs Developer Fluig", "DataBase Analisty Protheus and RM", "WordPress dev", "Laravel specialist"],
-technologies: {
-mobileApp: ["React Native"],
-frontEnd: {
-js: ["Vue", "React", "Fluig"],
-css: ["bootstrap"]
-},
-backEnd: {
-js: ["Laravel"],
-java: ["spring"]
-},
-databases: ["SQLServer", "MySql"],
-},
-content:{
-ptBr: "Desenvolvedor Pleno especialista em Laravel, analista de dados TOTVS PROTHES e RM, Experiência na área Indistrial
-com desenvolvimento e consumo de WS e REST Service integrado com Protheus"
-},
+    career: "Developer",
+    code: [
+        "Javascript",
+        "Java",
+        "Php",
+        "SqlServer",
+        "php"
+    ],
+    experience: [
+        "Totvs Developer Fluig",
+        "DataBase Analisty Protheus and RM",
+        "WordPress dev",
+        "Laravel specialist"
+    ],
+    technologies: {
+        mobileApp: ["React Native"],
+        frontEnd: {
+            js: ["Vue", "React", "Fluig"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["Laravel"],
+            java: ["spring"]
+        },
+        databases: ["SQLServer", "MySql"],
+    },
+    content: {
+        ptBr: "Desenvolvedor Pleno especialista em Laravel, 
+               analista de dados TOTVS PROTHES e RM, Experiência na área Indistrial
+               com desenvolvimento e consumo de WS e REST Service integrado com Protheus"
+        },
 };
 ```
 
