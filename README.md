@@ -122,7 +122,7 @@ const aboutMe = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["Laravel"],
+            php: ["Laravel"],
             java: ["spring"]
         },
         databases: ["SQLServer", "MySql"],
