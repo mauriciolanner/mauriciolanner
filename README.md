@@ -9,13 +9,16 @@ const aboutMe = {
         "Java",
         "Php",
         "SqlServer",
-        "php"
+        "php",
+        "Progress"
     ],
     experience: [
         "Totvs Developer Fluig",
         "DataBase Analisty Protheus and RM",
         "WordPress dev",
-        "Laravel specialist"
+        "Laravel specialist",
+        "Qlik analytics specialist",
+        "Progress Datasul analytics"
     ],
     technologies: {
         mobileApp: ["React Native"],
@@ -25,14 +28,16 @@ const aboutMe = {
         },
         backEnd: {
             php: ["Laravel"],
-            java: ["spring"]
+            java: ["spring"],
+            Progress: ["Datasul"]
         },
-        databases: ["SQLServer", "MySql"],
+        databases: ["SQLServer", "MySql", "Progress"],
     },
     content: {
         ptBr: "Desenvolvedor Pleno especialista em Laravel, 
-               analista de dados TOTVS PROTHES e RM, Experiência na área Indistrial
-               com desenvolvimento e consumo de WS e REST Service integrado com Protheus"
+               analista de dados TOTVS PROTHES, DataSul e RM, Vasta experiência na área Industrial
+               com desenvolvimento e consumo de WS e REST Service integrado com Protheus, RM e DataSul.
+               Analista de dados Qlik."
         },
 };
 ```
